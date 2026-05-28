@@ -18,17 +18,17 @@
 
 ---
 
-- ## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashiraCoder&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashiraCoder&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hashiraCoder&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hashiraCoder&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-## 💻 Most Used Languages
+---
 
 ## 💻 Most Used Languages
 
