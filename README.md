@@ -20,7 +20,9 @@
 
 - ## 📈 GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashiraCoder&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashiraCoder&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 🔥 GitHub Streak
 
@@ -28,7 +30,9 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashiraCoder&layout=compact&theme=tokyonight)
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashiraCoder&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📌 Featured Projects
 - Portfolio Website
