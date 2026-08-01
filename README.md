@@ -11,7 +11,7 @@
 - Node.js
 - Express
 - MongoDB
-- Postgres
+- Postgresql
 - Git/Github
 - Docker
 - Postman
