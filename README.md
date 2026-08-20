@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img src="banner-light.svg?v=1" alt="Shivam Kumar — Full Stack Developer" width="100%">
+  <img src="banner.svg?v=1" alt="Shivam Kumar — Full Stack Developer" width="100%">
 </picture>
 
 <img src="lanyard.svg?v=1" alt="Shivam Kumar ID badge" width="330">
