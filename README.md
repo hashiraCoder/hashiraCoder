@@ -8,7 +8,7 @@
 
 <img src="lanyard.svg?v=1" alt="Shivam Kumar ID badge" width="330">
 
-### `Full Stack Developer` · `C++ Programmer` · `Open Source Learner`
+### `Full Stack Developer` · `C++ Programmer` · `Agentic AI Learner` . 
 
 <a href="https://github.com/hashiraCoder"><img src="https://komarev.com/ghpvc/?username=hashiraCoder&style=flat-square&color=ed72ae&label=PROFILE+VIEWS" alt="profile views"></a>
 <a href="https://github.com/hashiraCoder"><img src="https://img.shields.io/badge/GitHub-hashiraCoder-171525?style=flat-square&logo=github" alt="GitHub"></a>
@@ -30,6 +30,7 @@ I’m **Shivam Kumar**, building scalable web applications, solving real-world p
 
 | Project | What I’m building |
 | --- | --- |
+| Oculus | A security tool to scan github repo to find out vulnerabilities & leaks. |
 | Portfolio Website | A polished home for projects and experiments. |
 | 2D Pathfinding Visualizer | Interactive algorithms made easier to understand. |
 | Agentic AI learning | Small, consistent contributions that compound. |
