@@ -32,7 +32,7 @@ I’m **Shivam Kumar**, building scalable web applications, solving real-world p
 | --- | --- |
 | Portfolio Website | A polished home for projects and experiments. |
 | 2D Pathfinding Visualizer | Interactive algorithms made easier to understand. |
-| Open-source learning | Small, consistent contributions that compound. |
+| Agentic AI learning | Small, consistent contributions that compound. |
 
 ## Contribution activity
 
@@ -44,7 +44,7 @@ I’m **Shivam Kumar**, building scalable web applications, solving real-world p
 
 <div align="center">
   <a href="https://github.com/hashiraCoder"><img src="https://img.shields.io/badge/GitHub-hashiraCoder-171525?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-contact%20me-ed72ae?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:shivamkumar.code@gmail.com"><img src="https://img.shields.io/badge/Email-contact%20me-ed72ae?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
 ## Watch the contributions get eaten 🐍
