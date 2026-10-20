@@ -39,7 +39,7 @@ I’m **Shivam Kumar**, building scalable web applications, solving real-world p
 
 <div align="center">
   <h3>Live Contribution Activity</h3>
-  <img src="https://ghchart.rshah.org/ee72ae/hashiraCoder?v=1" alt="Live contribution activity graph for hashiraCoder" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hashiraCoder&theme=github_dark" alt="Live contribution activity line graph for hashiraCoder" width="100%">
 </div>
 
 ## Connect
