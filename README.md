@@ -38,7 +38,7 @@ I’m **Shivam Kumar**, building scalable web applications, solving real-world p
 ## Contribution activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashiraCoder&bg_color=0d1020&color=f4c8e4&line=ee72ae&point=9d77ff&area=true&hide_border=true" alt="Contribution activity graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hashiraCoder&bg_color=0d1020&color=f4c8e4&line=ee72ae&point=9d77ff&area=true&hide_border=true&custom_title=Live%20Contribution%20Activity" alt="Live contribution activity graph for hashiraCoder" width="100%">
 </div>
 
 ## Connect
